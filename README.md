@@ -10,7 +10,7 @@
 - Nano Borb: [Desktop App for Slide Images on Github](https://github.com/SBU-BMI/Nanoborb) 
 
 ### Current Projects:
-![Top Secret](Top-Secret2.jpeg)
+Coming Soon.
 
 <!--
 **jbalsamo/jbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
