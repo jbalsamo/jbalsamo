@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Image analysis, machine learning, and Javascript components.
 - 🌱 I’m currently learning Typescript.
--
 - 💬 Ask me about React, GraphQL, and Raspberry Pi.
 - ⚡ Fun fact: At the age of 7, playing outside of my Father's cousin's apartment in Madrid, Spain, I wandered off after hearing a flock of sheep just over the hill.  For the next hour I followed the flock until I arrived at the home of the shepherd.  When my mother found me, she was a little ticked off at me.
 
@@ -16,8 +15,6 @@
 
 ### Weekly Hack-a-thon and Innovation Group:
 - More to come!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/jbalsamo/github-readme-stats)
 
 <!--
 **jbalsamo/jbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
