@@ -15,9 +15,10 @@
 | Rubrix is now [Agilla](https://www.argilla.io/): NLP and data processing | Charting Data - dc.js, e-chart, other ideas |
 | :----------------------------------------------------------------------- | :------------------------------------------ |
 
-### Weekly Hack-a-thon and Innovation Group
+### Weekly Hack-a-thon and Innovation Group Topics
 
-- More to come!
+| GraphQL Apollo | SolidJS | TypeScript | Rust | More to come! |
+| :------------- | :------ | :--------- | :--- | :------------ |
 
 <!--
 **jbalsamo/jbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
