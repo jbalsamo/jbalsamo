@@ -12,8 +12,8 @@
 
 ### Current Projects
 
-- Rubrix is now [Agilla](https://www.argilla.io/): NLP and data processing
-- Charting Data - dc.js, e-chart, other ideas
+| Rubrix is now [Agilla](https://www.argilla.io/): NLP and data processing | Charting Data - dc.js, e-chart, other ideas |
+| :----------------------------------------------------------------------- | :------------------------------------------ |
 
 ### Weekly Hack-a-thon and Innovation Group
 
