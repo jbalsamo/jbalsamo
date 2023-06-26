@@ -20,6 +20,8 @@
 | GraphQL | SolidJS | TypeScript | Rust | More to come! |
 | :------ | :------ | :--------- | :--- | :------------ |
 
+![jbalsamo's Stats](https://github-readme-stats.vercel.app/api?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo)](https://github.com/jbalsamo/github-readme-stats)
 
 <!--
