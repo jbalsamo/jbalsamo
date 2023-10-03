@@ -21,8 +21,8 @@
 | GraphQL | SolidJS | TypeScript | Rust | More to come! |
 | :------ | :------ | :--------- | :--- | :------------ |
 
-| ![jbalsamo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&layout=compact) | ![jbalsamo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jbalsamo&theme=dracula&hide_border=false) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------- |
+| ![jbalsamo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&layout=compact) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <!--
 **jbalsamo/jbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
