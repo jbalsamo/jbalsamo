@@ -15,7 +15,6 @@
 | [Agilla](https://www.argilla.io/): NLP and data processing | Charting Data - dc.js, e-chart, other ideas |
 | :--------------------------------------------------------- | :------------------------------------------ |
 | OpenAI GPT4                                                | Image Processing and Analysis               |
-| :--------------------------------------------------------- | :------------------------------------------ |
 
 ### Weekly Hack-a-thon and Innovation Group Topics
 
