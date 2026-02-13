@@ -27,7 +27,7 @@
 
 ## 🧠 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=5&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&layout=compact&langs_count=5&theme=default)
 
 <!--| ![jbalsamo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&layout=compact) |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
