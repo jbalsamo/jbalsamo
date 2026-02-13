@@ -12,7 +12,6 @@
 | Quip: [Quip Distro on Github](https://github.com/SBU-BMI/quip_distro) | Nano Borb: [Desktop App for Slide Images on Github](https://github.com/SBU-BMI/Nanoborb) |
 | :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | [Agilla](https://www.argilla.io/): NLP and data processing            | Charting Data - dc.js, e-chart, other ideas                                              |
-| :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | A.I. Coding Tools                                                     | Weekly Clinical and Technical Hackathons                                                 |
 
 ### Current Projects
@@ -26,9 +25,13 @@
 | GraphQL | SolidJS | TypeScript | Rust | AI Coding Tools |
 | :------ | :------ | :--------- | :--- | :-------------- |
 
-| ![jbalsamo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&layout=compact) |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+## 🧠 Top Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=5&theme=default)
+
+<!--| ![jbalsamo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbalsamo&theme=dracula&show_icons=true&hide_border=false&layout=compact) |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+-->
 <!--
 **jbalsamo/jbalsamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
