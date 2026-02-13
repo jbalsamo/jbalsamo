@@ -12,9 +12,7 @@
 | Quip: [Quip Distro on Github](https://github.com/SBU-BMI/quip_distro) | Nano Borb: [Desktop App for Slide Images on Github](https://github.com/SBU-BMI/Nanoborb) |
 | :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | [Agilla](https://www.argilla.io/): NLP and data processing            | Charting Data - dc.js, e-chart, other ideas                                              |
-| :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 | A.I. Coding Tools                                                     | Weekly Clinical and Technical Hackathons                                                 |
-| :-------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
 
 ### Current Projects
 
